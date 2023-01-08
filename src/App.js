@@ -9,6 +9,7 @@ function App() {
         <p>
           contact → beavers.hive.com [at] gmail.com
         </p>
+        <a href="https://blog.beavers-hive.com">blog</a>
       </header>
     </div>
   );
